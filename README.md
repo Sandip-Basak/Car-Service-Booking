@@ -42,5 +42,3 @@ Motora is an innovative online mechanic booking website developed using Django, 
 <img width=100% src="https://github.com/Sandip-Basak/Car-Service-Booking/blob/main/readme_images/Screenshot%202024-08-29%20125456.jpg?raw=true" alt="App Images">
 </div>
 <br>
-
-##
